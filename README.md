@@ -1,4 +1,6 @@
-![please](logo.png)
+<p align="center">
+  <img src="logo.png" width="300" height="94" />
+</p>
 
 ---
 
