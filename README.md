@@ -1,2 +1,5 @@
-# please
-A toy programming language implemented in R
+![please](logo.png)
+
+---
+
+please is a toy programming language implemented in R.
